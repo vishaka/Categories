@@ -1,0 +1,7 @@
+To run the test cases follow below steps :
+Import the project as maven project 
+Navigate to test/java/TestRunner you will find TestRunner.java class 
+Right click the class and run
+It will execute all the test casess for categories API
+The test framework if Cucumber BDD based and for sending API requests I have used Java Rest Assured library , BDD test cases are defined in /java/test/resources
+The framework contains utilities section which contains all the reusable libraries
